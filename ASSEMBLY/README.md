@@ -36,6 +36,12 @@ This section contains the bill of materials for each variant, as well as renders
 
 <br>
 
+## 3D Print Settings:
+It's **highly** recommended to use a high-temperature filament for any of the 3D printed parts, to avoid thermal deformation and material creep over time.
+Housing components should be printed with at least 5 walls and 50% infill.
+
+<br>
+
 ## Sub-Assemblies:
 There are two assemblies that are shared between the variants using a sheet metal housing.
 
